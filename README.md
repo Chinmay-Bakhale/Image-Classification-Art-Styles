@@ -25,15 +25,3 @@ This system supports hybrid classification by leveraging fine-tuned ViT-LoRA for
 1. Clone the repository.
 2. Install required packages: `!pip install transformers peft torch torchvision pillow ftfy regex tqdm`
 3. Run the notebook (`Hybrid_Zero_Shot_Classification.ipynb`) in Google Colab or a similar environment.
-
-## Contributions
-
-Contributions are welcome! Please read the contribution guidelines before submitting pull requests.
-
-## License
-
-[Insert License Here]
-
-## Last Updated
-
-[Insert Date]
